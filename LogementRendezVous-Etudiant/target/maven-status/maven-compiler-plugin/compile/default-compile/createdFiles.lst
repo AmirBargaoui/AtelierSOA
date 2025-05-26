@@ -1,4 +1,6 @@
 metiers\RendezVousBusiness.class
+restApi\Logementcontroller.class
 entities\Logement.class
 metiers\LogementBusiness.class
+ApplicationMain.class
 entities\RendezVous.class
