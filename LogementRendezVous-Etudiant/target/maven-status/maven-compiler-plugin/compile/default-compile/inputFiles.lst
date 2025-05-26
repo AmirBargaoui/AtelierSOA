@@ -1,6 +1,8 @@
-C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\ApplicationMain.java
 C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\entities\Logement.java
-C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\entities\RendezVous.java
-C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\metiers\LogementBusiness.java
 C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\metiers\RendezVousBusiness.java
-C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\restApi\Logementcontroller.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\ApplicationMain.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\config\SwaggerApp.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\entities\RendezVous.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\restApi\LogementRestApi.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\restApi\RendezRestApi.java
+C:\Users\amirb\Desktop\SOA\AtelierSOA\LogementRendezVous-Etudiant\src\main\java\metiers\LogementBusiness.java
